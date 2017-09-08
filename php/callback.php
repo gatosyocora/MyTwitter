@@ -29,5 +29,5 @@
   session_regenerate_id();
 
   // マイページへリダイレクト
-  header( 'location: ' . $page . '/php/mypage.php' );
+  header( 'location: ' . $page . '/mypage.html' );
  ?>
